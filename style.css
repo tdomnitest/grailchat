@@ -1,0 +1,24 @@
+.container-fluid    {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    width: 100%;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-left: 0px;
+    background-color:#eeeeee#fff;
+    align: center;
+}
+.container-fluid    {
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    width: 100%;
+    align: center;
+    background-color: #f4f7f6;
+    background-image: url('/Bootstrap-Portfolio/assets/images/cardboard-flat.png');
+    height: 960px;
+    justify-self: left;
+    border-top-style: groove;
+    border-top-color: #cccccc;
+
+}
