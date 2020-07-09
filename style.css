@@ -22,3 +22,16 @@
     border-top-color: #cccccc;
 
 }
+.new-conv-btn {
+    background-color: #orangered;
+    font-weight: 600;
+    border-radius: 2px;
+    padding: 10px 20px;
+    margin: 0 auto;
+    width: 200px;
+    text-align: center;
+    color: purple;
+    font-size: 16px;
+    text-decoration: none;
+    display: block;
+    box-shadow: 
